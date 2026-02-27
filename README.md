@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Joseph 👋
 
-<!--
-**joy-bot-design/joy-bot-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Software & Web Developer  
+🌍 Passionate about building clean, responsive, and user-friendly applications  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- 🌐 HTML5
+- 🎨 CSS3
+- ⚡ JavaScript
+- 🐍 Python
+- 💻 C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Doing
+- Building real-world web projects  
+- Improving problem-solving skills  
+- Growing daily as a developer  
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/joseph-osabutey-a72b16367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 Email: josephosabutey98@gmail.com
+- 📱 WhatsApp: https://wa.me/233594900238
+
+## 🎯 Goal
+To become a professional software engineer and contribute to impactful tech solutions.
