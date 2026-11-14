@@ -77,33 +77,6 @@ To become a highly skilled technology professional who develops innovative softw
 
 ---
 
-## 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Joy-bot-design">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/joseph-osabutey-a72b16367/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
-
-📍 Ghana 🇬🇭
-
----
-
-<div align="center">
-
-### "Consistency, curiosity, and continuous learning."
-
-Thanks for visiting my profile! ⭐
-
-</div>
-
-
 
 ---
 
@@ -153,5 +126,31 @@ Thanks for visiting my profile! ⭐
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Joy-bot-design">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/joseph-osabutey-a72b16367/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+📍 Ghana 🇬🇭
+
+---
+
+<div align="center">
+
+### "Consistency, curiosity, and continuous learning."
+
+Thanks for visiting my profile! ⭐
 
 </div>
