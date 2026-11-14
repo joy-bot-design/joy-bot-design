@@ -79,8 +79,19 @@ To become a highly skilled technology professional who develops innovative softw
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [Joy-bot-design](https://github.com/Joy-bot-design)
-- **Location:** Ghana 🇬🇭
+<p align="left">
+
+<a href="https://github.com/Joy-bot-design">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/joseph-osabutey-a72b16367/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+📍 Ghana 🇬🇭
 
 ---
 
