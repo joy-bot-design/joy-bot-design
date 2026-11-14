@@ -91,3 +91,31 @@ To become a highly skilled technology professional who develops innovative softw
 Thanks for visiting my profile! ⭐
 
 </div>
+
+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joy-bot-design&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joy-bot-design&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Joy-bot-design&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
