@@ -1,24 +1,93 @@
-# Hi, I'm Joseph 👋
+<div align="center">
 
-💻 Computer Science Student | Software & Web Developer  | AI and Machine Learning Asparant
-🌍 Passionate about building clean, responsive, and user-friendly applications  
+# Hi there, I'm Joseph Yaw Osabutey 👋
 
-## 🛠 Tech Stack
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🐍 Python
-- 💻 C++
+### Computer Science Student | Aspiring Software Developer
 
-## 🚀 What I'm Doing
-- Building real-world web projects  
-- Improving problem-solving skills  
-- Growing daily as a developer  
+Building my knowledge, creating solutions, and exploring the world of technology.
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/joseph-osabutey-a72b16367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 📧 Email: josephosabutey98@gmail.com
-- 📱 WhatsApp: https://wa.me/233594900238
+📍 Ghana 🇬🇭
 
-## 🎯 Goal
-To become a professional software engineer and contribute to impactful tech solutions.
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student at **Koforidua Technical University**, passionate about technology, programming, and software development.
+
+I'm currently developing my skills in software engineering and web development while exploring the exciting fields of Artificial Intelligence, Machine Learning, and Robotics.
+
+- 🎓 Studying BTech Computer Science.
+- 💻 Interested in Software and Web Development.
+- 🐍 Learning Python and problem-solving.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🚀 Building practical projects to improve my programming skills.
+- 🎯 Long-term goal: Become a skilled Software Engineer and AI/Robotics specialist.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Programming Languages**
+
+- Python
+- JavaScript
+- C++
+
+**Web Development**
+
+- HTML5
+- CSS3
+- PHP
+- MySQL
+
+**Development Tools**
+
+- Git & GitHub
+- Visual Studio Code
+- XAMPP
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| Melody Empire Music School | A music school and production website. |
+| Personal Portfolio | My personal developer portfolio. |
+| Python Projects | Programming exercises and practical applications. |
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Advanced Python Programming
+- Software Engineering
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+## 🎯 My Vision
+
+To become a highly skilled technology professional who develops innovative software solutions and contributes to the advancement of Artificial Intelligence and Robotics.
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [Joy-bot-design](https://github.com/Joy-bot-design)
+- **Location:** Ghana 🇬🇭
+
+---
+
+<div align="center">
+
+### "Consistency, curiosity, and continuous learning."
+
+Thanks for visiting my profile! ⭐
+
+</div>
