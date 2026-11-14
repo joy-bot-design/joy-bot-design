@@ -1,6 +1,6 @@
 # Hi, I'm Joseph 👋
 
-💻 Computer Science Student | Software & Web Developer  
+💻 Computer Science Student | Software & Web Developer  | AI and Machine Learning Asparant
 🌍 Passionate about building clean, responsive, and user-friendly applications  
 
 ## 🛠 Tech Stack
